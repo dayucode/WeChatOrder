@@ -16,7 +16,7 @@ IntelliJIDEA2019+Andriodstudio+微信开发工具
 备注[因为使用习惯小程序端先在Andriodstudio开发APP端再转微信开发工具开发微信所需]
 ### 测试效果展现
 #### 小程序端
-![](https://github.com/laughter-dayu/WeChatOrder/blob/master/pic/1.jpg)
+![](https://github.com/laughter-dayu/WeChatOrder/blob/master/pic/1.jpg？imageMogr2/auto-orient/strip%7CimageView2/2/w/400)
 ![](https://github.com/laughter-dayu/WeChatOrder/blob/master/pic/2.jpg)
 ![](https://github.com/laughter-dayu/WeChatOrder/blob/master/pic/3.jpg)
 ![](https://github.com/laughter-dayu/WeChatOrder/blob/master/pic/4.jpg)
